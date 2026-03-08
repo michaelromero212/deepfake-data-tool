@@ -24,21 +24,30 @@ outputs/
 
 Here is a look at the pipeline in action:
 
-| **Pipeline Start** | **Processing Data** |
-| :---: | :---: |
-| <img src="screenshots/01_pipeline_start.jpg" width="400" /> | <img src="screenshots/02_processing_data.jpg" width="400" /> |
-| *Initializing the dataset orchestration* | *Processing multi-modal files with rich progress tracking* |
+### 1. Pipeline Start
+*Initializing the dataset orchestration*
 
-| **Validation Report** | **Manifest Output** |
-| :---: | :---: |
-| <img src="screenshots/03_validation_report.jpg" width="400" /> | <img src="screenshots/04_manifest_output.jpg" width="400" /> |
-| *Final QA pipeline report with pass/warn rates* | *Strict, versioned manifest JSON output* |
+<img src="screenshots/01_pipeline_start.jpg" width="850" alt="Pipeline Start" />
 
-<p align="center">
-  <img src="screenshots/05_tests_passing.jpg" width="600" />
-  <br/>
-  <i>All tests passing successfully with robust static typing</i>
-</p>
+### 2. Processing Data
+*Processing multi-modal files with rich progress tracking*
+
+<img src="screenshots/02_processing_data.jpg" width="850" alt="Processing Data" />
+
+### 3. Validation Report
+*Final QA pipeline report with pass/warn rates*
+
+<img src="screenshots/03_validation_report.jpg" width="850" alt="Validation Report" />
+
+### 4. Manifest Output
+*Strict, versioned manifest JSON output*
+
+<img src="screenshots/04_manifest_output.jpg" width="850" alt="Manifest Output" />
+
+### 5. Tests Passing
+*All tests passing successfully with robust static typing*
+
+<img src="screenshots/05_tests_passing.jpg" width="850" alt="Tests Passing" />
 
 ---
 
