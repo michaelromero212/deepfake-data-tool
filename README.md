@@ -20,6 +20,14 @@ outputs/
 
 ---
 
+## 🎯 Project Overview & Purpose
+
+Deepfake detection models are only as good as the data pipelines behind them. Most ML research heavily focuses on model architecture — but the unglamorous work of ingesting, labelling, preprocessing, hashing, validating, and versioning hundreds of thousands of media samples is what truly separates a research script from a production ML system.
+
+This project meticulously simulates that rigorous data engineering infrastructure end-to-end across three main media types: **images**, **video**, and **audio**.
+
+---
+
 ## 📸 Screenshots
 
 Here is a look at the pipeline in action:
@@ -48,14 +56,6 @@ Here is a look at the pipeline in action:
 *All tests passing successfully with robust static typing*
 
 <img src="screenshots/05_tests_passing.jpg" width="850" alt="Tests Passing" />
-
----
-
-## 🎯 Project Overview & Purpose
-
-Deepfake detection models are only as good as the data pipelines behind them. Most ML research heavily focuses on model architecture — but the unglamorous work of ingesting, labelling, preprocessing, hashing, validating, and versioning hundreds of thousands of media samples is what truly separates a research script from a production ML system.
-
-This project meticulously simulates that rigorous data engineering infrastructure end-to-end across three main media types: **images**, **video**, and **audio**.
 
 ---
 
